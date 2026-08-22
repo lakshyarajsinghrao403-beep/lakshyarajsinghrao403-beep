@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lakshyaraj Singh Rao</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | Building in public, one project at a time</h3>
 
-<!--
-**lakshyarajsinghrao403-beep/lakshyarajsinghrao403-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎯 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently building foundational skills in **Data Science & Machine Learning**
+- 💻 Comfortable with **Python, pandas, NumPy, Matplotlib/Seaborn**, and learning **scikit-learn**
+- 📊 Interests: classical ML, exploratory data analysis, and eventually MLOps & deployment
+- 📫 Open to **ML/Data Science internship** opportunities — always happy to connect and learn from others in the field
+- ⚡ Fun fact: I'd rather derive the math and get a worse score than get a great score from a black box I don't understand
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Engineer Salary Prediction**](https://github.com/lakshyarajsinghrao403-beep/first_linear_regression_model) | Built a linear regression model using scikit-learn — to predict engineer salary outcomes. | NumPy, pandas, scikit-learn |
+| [**ResumeRank**](https://github.com/lakshyarajsinghrao403-beep/resumerank) | AI-powered resume screening web app that ranks candidates against a job description using weighted keyword matching. | Python, Flask, JavaScript |
+| [**Customer Data Analysis**](https://github.com/lakshyarajsinghrao403-beep/customer_data_analysis) | End-to-end exploratory data analysis on a customer dataset — cleaning, visualization, and insight generation. | Pandas, Matplotlib, Seaborn |
+| [**IMDB Data Analysis**](https://github.com/lakshyarajsinghrao403-beep/IMDB-data-analysis) | EDA on an IMDB movie dataset exploring ratings, genres, and trends. | Pandas, Matplotlib, Seaborn |
+| [**Scikit-Learn Practice**](https://github.com/lakshyarajsinghrao403-beep/scikit_learning) | Hands-on practice implementing standard ML workflows with scikit-learn. | Scikit-learn |
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+
+<!-- Add your links below -->
+[![LinkedIn](www.linkedin.com/in/lakshyaraj-singh-rao-515a61419)](#)
+[![Email](lakshyarajsinghrao25@gmail.com)](#)
+
+---
+
+<p align="center"><i>⭐ Currently working on: logistic regression from scratch | Next up: model deployment with Flask/Streamlit</i></p>
