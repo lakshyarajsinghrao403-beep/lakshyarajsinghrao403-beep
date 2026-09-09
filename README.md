@@ -22,6 +22,7 @@
 | [**Customer Data Analysis**](https://github.com/lakshyarajsinghrao403-beep/customer_data_analysis) | End-to-end exploratory data analysis on a customer dataset — cleaning, visualization, and insight generation. | Pandas, Matplotlib, Seaborn |
 | [**IMDB Data Analysis**](https://github.com/lakshyarajsinghrao403-beep/IMDB-data-analysis) | EDA on an IMDB movie dataset exploring ratings, genres, and trends. | Pandas, Matplotlib, Seaborn |
 | [**Scikit-Learn Practice**](https://github.com/lakshyarajsinghrao403-beep/scikit_learning) | Hands-on practice implementing standard ML workflows with scikit-learn. | Scikit-learn |
+| [**Placement Prediction**](https://github.com/lakshyarajsinghrao403-beep/placement-prediction-ML) | Built a machine learning model for placement prediction without using Scikit-learn | Numpy, Pandas |
 
 ---
 
