@@ -47,4 +47,4 @@
 
 ---
 
-<p align="center"><i>⭐ Currently working on: logistic regression from scratch | Next up: model deployment with Flask/Streamlit</i></p>
+<p align="center"><i>⭐ unsupervised learning | Next up: model deployment with Flask/Streamlit</i></p>
